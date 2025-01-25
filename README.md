@@ -6,7 +6,7 @@ Here’s a detailed README file for your Drum Kit project:
 
 A fun and interactive Drum Kit website showcasing the use of JavaScript event listeners to create a virtual drum-playing experience. Play different drum sounds either by clicking the drum buttons or pressing the corresponding keys on your keyboard.
 
-![Drum Kit Screenshot][image](https://github.com/user-attachments/assets/0e764838-9104-481c-9ab5-be0597295574)
+![Drum Kit Screenshot]![image](https://github.com/user-attachments/assets/0e764838-9104-481c-9ab5-be0597295574)
 
 
 ---
