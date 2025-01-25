@@ -1,7 +1,3 @@
-Here’s a detailed README file for your Drum Kit project:
-
----
-
 # Drum Kit 🥁
 
 A fun and interactive Drum Kit website showcasing the use of JavaScript event listeners to create a virtual drum-playing experience. Play different drum sounds either by clicking the drum buttons or pressing the corresponding keys on your keyboard.
@@ -58,4 +54,3 @@ Made with ❤️ in India.
 
 --- 
 
-If you need further customization or have additional details to include, let me know!
